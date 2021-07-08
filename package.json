@@ -1,0 +1,27 @@
+{
+  "name": "blissful-soylent",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.6",
+    "@react-navigation/native": "latest",
+    "@react-navigation/stack": "latest",
+    "expo": "^37.0.0",
+    "firebase": "^7.13.2",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
+    "react-native-safe-area-context": "0.7.3",
+    "react-native-screens": "~2.2.0",
+    "react-navigation": "^4.3.7",
+    "react-navigation-stack": "^2.3.11",
+    "redux": "4.0.0",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-reanimated": "~1.7.0"
+  }
+}
